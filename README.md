@@ -1,1 +1,1 @@
-# netatmo
+# Webpage to display data from Netatmo Weather Station hosted with Google Firebase Hosting
